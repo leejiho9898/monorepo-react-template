@@ -1,6 +1,6 @@
-import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import Head from "next/head";
 import { sayHello } from "@monorepo/lib";
 
 export default function Home() {

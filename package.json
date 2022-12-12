@@ -9,8 +9,15 @@
   "devDependencies": {
     "@types/eslint": "^8",
     "@types/prettier": "^2",
+    "@typescript-eslint/eslint-plugin": "5.45.1",
+    "@typescript-eslint/parser": "5.45.1",
     "@yarnpkg/sdks": "^3.0.0-rc.32",
     "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.1",
     "typescript": "4.9.3"
   }
