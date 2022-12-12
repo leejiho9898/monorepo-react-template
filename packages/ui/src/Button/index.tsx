@@ -2,7 +2,8 @@ import React from "react";
 
 interface ButtonProps extends React.HTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
-  onClick: () => void;
+  variant?: "contained" | "outlined";
+  onClick?: () => void;
 }
 
 const Button = ({ children, onClick, ...rest }: ButtonProps) => {
