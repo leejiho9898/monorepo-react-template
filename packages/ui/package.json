@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/ui",
+  "name": "@common/ui",
   "packageManager": "yarn@3.3.0",
   "main": "src/index.ts",
   "scripts": {

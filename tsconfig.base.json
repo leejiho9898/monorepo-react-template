@@ -13,8 +13,8 @@
     "incremental": true,
     "newLine": "lf",
     "paths": {
-      "@monorepo/ui": ["packages/ui/src/index.ts"],
-      "@monorepo/lib": ["packages/lib/src/index.ts"]
+      "@common/ui": ["packages/ui/src/index.ts"],
+      "@common/lib": ["packages/lib/src/index.ts"]
     },
     "declaration": true,
     "declarationMap": true
